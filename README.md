@@ -43,4 +43,4 @@ This plugin is licensed under the GPL-2.0+ license. See [http://www.gnu.org/lice
 
 ## Author
 
-**Zaviyaan** - [devdoseo.com](https://devdoseo.com)
+**Zaviyaan & Majeed**
